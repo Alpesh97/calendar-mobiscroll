@@ -1,0 +1,120 @@
+.custom-calender-wrapper .mbsc-windows-dark .mbsc-toast-background{color:#495057}
+.custom-calender-wrapper .mbsc-font-icon:before{font-family:Poppins, 'sans-serif';}
+.custom-calender-wrapper .mbsc-ios.mbsc-label-stacked{top:.75em;}
+.custom-calender-wrapper .mbsc-ios.mbsc-label-floating-active.mbsc-label{-webkit-transform:translateY(-.5em) scale(.75);transform:translateY(-.5em) scale(.75)}
+.custom-calender-wrapper .mbsc-ios.mbsc-label-box-floating,.custom-calender-wrapper .mbsc-ios.mbsc-label-outline-floating{top:.6875em}
+.custom-calender-wrapper .mbsc-ios.mbsc-textarea-inner.mbsc-textfield-inner-floating,.custom-calender-wrapper .mbsc-ios.mbsc-textarea-inner.mbsc-textfield-inner-stacked{padding-top:1.875em}
+.custom-calender-wrapper .mbsc-ios.mbsc-textfield{color:#495057}
+.custom-calender-wrapper .mbsc-material.mbsc-textfield{height:2.125em;}
+.custom-calender-wrapper .mbsc-material.mbsc-textfield-box{height:2.25em;padding:0 1em}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-select{background:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-button-standard{background:#fff;color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-button-flat{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-button-outline.mbsc-active{background:#1273de;color:#f8f8fb}
+.custom-calender-wrapper .mbsc-ios.mbsc-button-light.mbsc-button-standard{color:#495057}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-button-outline.mbsc-active{color:#495057}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-button-light.mbsc-button-standard{color:#495057}
+.custom-calender-wrapper .mbsc-material.mbsc-button-standard{color:#495057;}
+.custom-calender-wrapper .mbsc-material.mbsc-button-flat,.custom-calender-wrapper .mbsc-material.mbsc-button-outline{color:#495057}
+.custom-calender-wrapper .mbsc-material.mbsc-button-outline{border-color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-button-primary.mbsc-button-standard{background:#3f97f6;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-button-secondary.mbsc-button-standard{background:#90979e;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-button-success.mbsc-button-standard{background:#43be5f;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-button-danger.mbsc-button-standard{background:#f5504e;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-button-warning.mbsc-button-standard{background:#f8b042;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-button-info.mbsc-button-standard{background:#5bb7c5;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-button-dark.mbsc-button-standard{background:#47494a;color:#495057}
+.custom-calender-wrapper .mbsc-windows.mbsc-button-light.mbsc-button-standard{color:#495057}
+.custom-calender-wrapper .mbsc-windows.mbsc-button-dark.mbsc-button-outline.mbsc-hover,.custom-calender-wrapper .mbsc-windows.mbsc-button-dark.mbsc-button-standard.mbsc-hover{border-color:#495057}
+.custom-calender-wrapper .mbsc-windows.mbsc-button-dark.mbsc-button-outline.mbsc-active,.custom-calender-wrapper .mbsc-windows.mbsc-button-dark.mbsc-button-standard.mbsc-active{background:#495057;}
+.custom-calender-wrapper .mbsc-windows-dark.mbsc-button-light.mbsc-button-standard{color:#495057}
+.custom-calender-wrapper .mbsc-windows-dark.mbsc-button-dark.mbsc-button-outline.mbsc-hover,.custom-calender-wrapper .mbsc-windows-dark.mbsc-button-dark.mbsc-button-standard.mbsc-hover{border-color:#495057}
+.custom-calender-wrapper .mbsc-windows-dark.mbsc-button-dark.mbsc-button-outline.mbsc-active,.custom-calender-wrapper .mbsc-windows-dark.mbsc-button-dark.mbsc-button-standard.mbsc-active{background:#495057;}
+.custom-calender-wrapper .mbsc-ios.mbsc-popup-body{background:#f2f2f7;color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-popup-buttons-bottom,.custom-calender-wrapper .mbsc-ios.mbsc-popup-buttons-top{background:#f8f8fb}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-label-background{background:currentColor;border-radius:.2em;opacity:1;transition:all .15s ease-in-out}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-label-hover .mbsc-calendar-label-background{background-image: linear-gradient(rgba(0, 0, 0, 0.15) 0 0);}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-width-md .mbsc-calendar-week-day{height:2.5em;padding:0 .5em;line-height:2.5em;font-size:1em;border-left:1px solid transparent;font-weight: 600;}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-width-md .mbsc-calendar-day-labels .mbsc-calendar-day-inner{min-height:5.75em}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-width-md .mbsc-calendar-day-text{width:1.475em;height:1.475em;line-height:1.55em;font-size: 14px;}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-width-md .mbsc-calendar-label-text{font-weight: 400;}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-height-md.mbsc-calendar-width-md .mbsc-calendar-day.mbsc-ltr,.custom-calender-wrapper .mbsc-ios.mbsc-calendar-height-md.mbsc-calendar-width-md .mbsc-calendar-marks.mbsc-ltr,.custom-calender-wrapper .mbsc-ios.mbsc-calendar-height-md.mbsc-calendar-width-md .mbsc-calendar-week-day.mbsc-ltr{text-align:center;}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-height-md.mbsc-calendar-width-md .mbsc-calendar-day.mbsc-rtl,.custom-calender-wrapper .mbsc-ios.mbsc-calendar-height-md.mbsc-calendar-width-md .mbsc-calendar-marks.mbsc-rtl,.custom-calender-wrapper .mbsc-ios.mbsc-calendar-height-md.mbsc-calendar-width-md .mbsc-calendar-week-day.mbsc-rtl{text-align:center;}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-button.mbsc-button{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-cell{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-today{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-hover .mbsc-calendar-cell-text{background-color:rgba(32,76,149,0.2)}
+.custom-calender-wrapper .mbsc-ios.mbsc-range-day .mbsc-calendar-cell-text{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-selected .mbsc-calendar-cell-text{border-color:#204c95;background:#204c95;}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-label-text{color:#fff}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-text-more .mbsc-calendar-label-text{color:#495057}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-calendar{background:#495057;color:#fff}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-calendar-cell{background:#495057;border-color:#333;color:#fff}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-calendar-slide{background:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-selected .mbsc-calendar-cell-text{background:#87b0f3;border-color:#87b0f3;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-calendar-label-inner{color:#495057}
+.custom-calender-wrapper .mbsc-calendar-button.mbsc-button.mbsc-reset{margin:0;font-family:Poppins, 'sans-serif';}
+.custom-calender-wrapper .mbsc-calendar-month-text,.custom-calender-wrapper .mbsc-calendar-year-text{margin: 0;}
+.custom-calender-wrapper .mbsc-ios.mbsc-scroller-wheel-item-2d,.custom-calender-wrapper .mbsc-ios.mbsc-scroller-wheel-item.mbsc-selected{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-scroller-wheel-item-3d.mbsc-wheel-item-multi{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-scroller-wheel-item-3d.mbsc-wheel-item-multi.mbsc-selected-3d{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-scroller-pointer .mbsc-scroller-wheel-item{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-scroller-pointer .mbsc-scroller-wheel-item.mbsc-selected{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-segmented-button.mbsc-button{background:transparent;color:#495057}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-segmented-selectbox-inner.mbsc-selected{box-shadow:3px 3px 8px -4px #495057}
+.custom-calender-wrapper .mbsc-material.mbsc-segmented-button.mbsc-button{border-color:#1a73e8;color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-segmented-button.mbsc-button.mbsc-selected{background:#87b0f3;color:#495057}
+.custom-calender-wrapper .mbsc-windows-dark.mbsc-segmented-button.mbsc-button.mbsc-selected{background:#ababab;color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-range-control-value.active{color:#204c95}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-datepicker-inline{background:#495057;color:#fff}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-datepicker-inline .mbsc-calendar-slide{background:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-select-scroller-inline{background-color:#495057;color:#fff}
+.custom-calender-wrapper .mbsc-ios.mbsc-list-item{background:#fff;border-color:#ccc;color:#495057}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-list-item{background:#495057;border-color:#333;color:#fff}
+.custom-calender-wrapper .mbsc-ios.mbsc-event-text > span {color: #495057 !important;}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-list-header{background:#495057;color:#87b0f3}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-list-item{background:#495057;color:#fff}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-width-md .mbsc-schedule-all-day-text{padding:.25em .571429em;font-size:.875em}
+.custom-calender-wrapper .mbsc-ios.mbsc-calendar-width-md .mbsc-schedule-time,.custom-calender-wrapper .mbsc-ios.mbsc-calendar-width-md .mbsc-schedule-time-indicator-time{font-size:.75em;padding:0 .666667em}
+.custom-calender-wrapper .mbsc-ios.mbsc-eventcalendar .mbsc-calendar-header,.custom-calender-wrapper .mbsc-ios.mbsc-eventcalendar .mbsc-calendar-week-days{background:#f8f8fb}
+.custom-calender-wrapper .mbsc-ios.mbsc-event-day.mbsc-list-header{background:#fff;border-color:#ccc;color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-event.mbsc-list-item{background:#fff;color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-eventcalendar-schedule .mbsc-calendar-day,.custom-calender-wrapper .mbsc-ios.mbsc-schedule-wrapper{background:#f8f8fb}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-header-day-today{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-header-day.mbsc-hover{background:rgba(32,76,149,0.2)}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-header-day.mbsc-selected,.custom-calender-wrapper .mbsc-ios.mbsc-schedule-header-dayname-curr{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-header-day.mbsc-selected{background:#204c95;color:#fff}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-header-dayname-curr{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-date-header{background:#f8f8fb;border-color:#ccc}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-event-range,.custom-calender-wrapper .mbsc-ios.mbsc-schedule-event-title{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-time-indicator,.custom-calender-wrapper .mbsc-ios.mbsc-schedule-time-indicator:before{background:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-time-indicator-time{color:#204c95}
+.custom-calender-wrapper .mbsc-ios.mbsc-schedule-time-indicator-cont{border-color:#204c95}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-schedule-header-day.mbsc-selected{background:#ff9f0a;color:#495057}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-schedule-grid-wrapper{background:#495057}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-schedule-all-day-wrapper{border-color:#333;background:#495057}
+.custom-calender-wrapper .mbsc-material.mbsc-schedule-all-day-text{padding:0 .8em;font-size:.625em;line-height:2.4em;text-transform:uppercase}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-event-day.mbsc-list-header,.custom-calender-wrapper .mbsc-material-dark.mbsc-schedule-date-header{background:#495057;}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-colored-event.mbsc-list-item{color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-schedule-header-day.mbsc-selected{color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-schedule-event-inner{color:#495057}
+.custom-calender-wrapper .mbsc-eventcalendar{font-family:Poppins, 'sans-serif';}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-checkbox-box:after{border-color:#495057}
+.custom-calender-wrapper .mbsc-windows-dark.mbsc-checkbox-box:after{border-color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-page{color:#495057}
+.custom-calender-wrapper .mbsc-ios a{color:#204c95}
+.custom-calender-wrapper .mbsc-ios-dark.mbsc-page{background:#495057;}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-page{background-color:#495057;}
+.custom-calender-wrapper .mbsc-ios.mbsc-stepper-input{color:#495057}
+.custom-calender-wrapper .mbsc-ios.mbsc-stepper-button{color:#495057}
+.custom-calender-wrapper .mbsc-material-dark.mbsc-stepper-inner{color:#495057}
+.custom-calender-wrapper .mbsc-ios-gray.mbsc-button-light.mbsc-button-standard{color:#495057}
+.custom-calender-wrapper .mbsc-ios-gray.mbsc-selected .mbsc-calendar-cell-text{color:#495057}
+.custom-calender-wrapper .mbsc-material-blue.mbsc-button-standard{color:#495057;}
+.custom-calender-wrapper .mbsc-material-blue.mbsc-button-flat,.custom-calender-wrapper .mbsc-material-blue.mbsc-button-outline{color:#495057}
+.custom-calender-wrapper .mbsc-material-blue.mbsc-button-outline{border-color:#495057}
+.custom-calender-wrapper .mbsc-material-blue.mbsc-segmented-button.mbsc-button{color:#495057}
+.custom-calender-wrapper .mbsc-windows-yellow.mbsc-button-light.mbsc-button-standard{color:#495057}
+.custom-calender-wrapper .mbsc-windows-yellow.mbsc-button-dark.mbsc-button-outline.mbsc-hover,.custom-calender-wrapper .mbsc-windows-yellow.mbsc-button-dark.mbsc-button-standard.mbsc-hover{border-color:#495057;}
+.custom-calender-wrapper .mbsc-windows-yellow.mbsc-button-dark.mbsc-button-outline.mbsc-active,.custom-calender-wrapper .mbsc-windows-yellow.mbsc-button-dark.mbsc-button-standard.mbsc-active{background:#495057;}
